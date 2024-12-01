@@ -6,4 +6,8 @@ module.exports = {
     'mongodb://root:Abc12345@localhost:27018/advnode?authSource=admin',
   cookieKey: '123123123',
   redisUrl: 'redis://default:Abc12345@127.0.0.1:6381',
+  accessKey: 'AKIA6D6JBTZQL4VROC6R',
+  secretAccessKey: '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',
+  region: 'ap-southeast-1',
+  bucketName: 'blogs-advn'
 };
